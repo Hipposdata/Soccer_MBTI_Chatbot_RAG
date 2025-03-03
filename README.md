@@ -59,6 +59,12 @@ https://m.sports.naver.com/wfootball/record/epl?seasonCode=QFmj&tab=players
 ![image](https://github.com/user-attachments/assets/631563ae-99b3-4184-b5d9-254cfbc863c7)
 ![image](https://github.com/user-attachments/assets/e0ba34c4-5e74-4f1d-8124-db0628e3359c)
 
+<figure class="half">
+<figure class="half">  
+ <a href="link"><img src="![image](https://github.com/user-attachments/assets/631563ae-99b3-4184-b5d9-254cfbc863c7)"></a>  
+ <a href="link"><img src="이미지경로"></a> 
+</figure>
+
 -> 정의한 MBTI 문서 기반 답변 및 최근 선수(2023~2024 시즌) 추천 
 
 ## STEAMLIT DEMO  
