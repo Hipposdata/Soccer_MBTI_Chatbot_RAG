@@ -52,14 +52,14 @@ https://m.sports.naver.com/wfootball/record/epl?seasonCode=QFmj&tab=players
 
 ### RAG 사용 유무 결과 비교   
 기본 gpt모델 (gpt-4o-mini)   
+![image](https://github.com/user-attachments/assets/6b3a0a79-ddbb-4a47-8481-a20520f215d1)
 
  
-
 기본 gpt모델 (gpt-4o-mini) + RAG  
 ![image](https://github.com/user-attachments/assets/631563ae-99b3-4184-b5d9-254cfbc863c7)
+![image](https://github.com/user-attachments/assets/e0ba34c4-5e74-4f1d-8124-db0628e3359c)
 
-
-
+-> 정의한 MBTI 문서 기반 답변 및 최근 선수(2023~2024 시즌) 추천 
 
 ## STEAMLIT DEMO  
 https://github.com/user-attachments/assets/3967f835-976f-483c-8f3f-a08eeef9fc3a  
