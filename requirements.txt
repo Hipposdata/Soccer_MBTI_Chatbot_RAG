@@ -22,4 +22,3 @@ jq
 openpyxl
 langchain_chroma
 streamlit
-pysqlite3-binary==0.5.1.3380300
