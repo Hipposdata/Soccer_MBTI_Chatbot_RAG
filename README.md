@@ -18,7 +18,7 @@ Q. 나와 비슷한 플레이 스타일을 가진 선수는 누가 있을까?
 1. 공격형(A, Attack) vs 수비형(D, Defense)
 2. 협동형(T, Teamwork) vs 단독형(P, Personal)
 3. 핵심형(K, Key) vs 조커형(J, Joker)
-4. 적극형(E, Extroversion) vs 소극형(I, Introversion)
+4. 적극형(E, Extroversion) vs 소극형(I, Introversion)   
 
 
 1. 공격형(A) / 수비형(D) 지표: 유효슈팅 수 + 슈팅 수 + 리커버리 수  
