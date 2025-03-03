@@ -81,5 +81,5 @@ streamlit run mbti_web.py
 ```
 
 ## 📌 Reference
-한동대학교 축구 빅데이터 캠프 - 나는 데이터로 축구한다(LLM과 RAG 기술 활용편)
-[https://github.com/Hipposdata/facamp-2025-winter](https://github.com/ai-5050/facamp-2025-winter)
+2025 한동대학교 축구 빅데이터 캠프 - 나는 데이터로 축구한다(LLM과 RAG 기술 활용편)  
+[https://github.com/Hipposdata/facamp-2025-winter](https://github.com/ai-5050/facamp-2025-winter)  
