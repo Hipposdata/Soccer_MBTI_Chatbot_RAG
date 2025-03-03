@@ -19,7 +19,8 @@ Q. 나와 비슷한 플레이 스타일을 가진 선수는 누가 있을까?
 2. 협동형(T, Teamwork) vs 단독형(P, Personal)
 3. 핵심형(K, Key) vs 조커형(J, Joker)
 4. 적극형(E, Extroversion) vs 소극형(I, Introversion)
- 
+
+
 1. 공격형(A) / 수비형(D) 지표: 유효슈팅 수 + 슈팅 수 + 리커버리 수  
 
 공격형: 공격적, 진격, 기습, 침략, 도전, 도전적, 공격적인, 진격하는 등등  
@@ -48,9 +49,10 @@ https://m.sports.naver.com/wfootball/record/epl?seasonCode=QFmj&tab=players
 각 항목에 해당하는 축구 지표의 모든 선수의 평균값을 기준으로 평균 이상, 이하로 구분하여 각 축구 MBTI 항목 구분
 
 ### RAG(Retrieval-Augmented Generation) 적용
-정의한 축구 MBTI지표 문서 + 2023 ~ 2024 시즌 EPL 선수 기록 데이터 문서 기반으로 RAG적용
+1. 정의한 축구 MBTI지표 문서 + 2. 2023 ~ 2024 시즌 EPL 선수 기록 데이터 문서 기반으로 RAG적용
 질문과 각 지표들간의 유사도를 계산하여 높은 유사도 값을 해당 MBTI 유형으로 판단
 
+![image](https://github.com/user-attachments/assets/cd650557-1211-482a-9ecb-90ee38ae8320)
 
 ### RAG 사용 유무 결과 비교   
 #### 기본 gpt모델 (gpt-4o-mini)   
