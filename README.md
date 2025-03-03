@@ -60,8 +60,7 @@ https://m.sports.naver.com/wfootball/record/epl?seasonCode=QFmj&tab=players
 
 
 ## STEAMLIT DEMO
-
-
+https://github.com/user-attachments/assets/3967f835-976f-483c-8f3f-a08eeef9fc3a
 
 ## How to run
 <br>
