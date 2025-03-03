@@ -49,8 +49,9 @@ https://m.sports.naver.com/wfootball/record/epl?seasonCode=QFmj&tab=players
 각 항목에 해당하는 축구 지표의 모든 선수의 평균값을 기준으로 평균 이상, 이하로 구분하여 각 축구 MBTI 항목 구분
 
 ### 💡RAG(Retrieval-Augmented Generation) 적용
-1. 정의한 축구 MBTI지표 문서 + 2. 2023 ~ 2024 시즌 EPL 선수 기록 데이터 문서 기반으로 RAG적용
-질문과 각 지표들간의 유사도를 계산하여 높은 유사도 값을 해당 MBTI 유형으로 판단
+1. 정의한 축구 MBTI지표 문서 + 2. 2023 ~ 2024 시즌 EPL 선수 기록 데이터 문서  
+해당 두 문서 기반으로 RAG적용  
+질문과 각 지표들간의 유사도를 계산하여 높은 유사도 값을 해당 MBTI 유형으로 판단  
 
 ![image](https://github.com/user-attachments/assets/cd650557-1211-482a-9ecb-90ee38ae8320)
 
