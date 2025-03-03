@@ -50,12 +50,13 @@ https://m.sports.naver.com/wfootball/record/epl?seasonCode=QFmj&tab=players
 정의한 축구 MBTI지표 문서 + 2023 ~ 2024 시즌 EPL 선수 기록 데이터 문서 기반으로 RAG적용
 질문과 각 지표들간의 유사도를 계산하여 높은 유사도 값을 해당 MBTI 유형으로 판단
 
+
 ### RAG 사용 유무 결과 비교   
-기본 gpt모델 (gpt-4o-mini)   
+#### 기본 gpt모델 (gpt-4o-mini)   
 ![image](https://github.com/user-attachments/assets/6b3a0a79-ddbb-4a47-8481-a20520f215d1)
 
  
-기본 gpt모델 (gpt-4o-mini) + RAG  
+#### 기본 gpt모델 (gpt-4o-mini) + RAG  
 ![image](https://github.com/user-attachments/assets/631563ae-99b3-4184-b5d9-254cfbc863c7) | ![image](https://github.com/user-attachments/assets/e0ba34c4-5e74-4f1d-8124-db0628e3359c)
 ---|---|
 
@@ -73,7 +74,6 @@ pip install -r requirements.txt
 ```
 
 ```bash
-cd streamlit
 streamlit run mbti_web.py
 ```
 
