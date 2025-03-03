@@ -12,6 +12,7 @@ Q. 나와 비슷한 플레이 스타일을 가진 선수는 누가 있을까?
 ## 프로젝트 수행 방법
 
 ### 축구 MBTI지표 정의 및 유사 단어 정의
+![축구MBTI지표그림](https://github.com/user-attachments/assets/f766f42b-d888-45af-8c1e-e50c0bb7f70f)
 4가지 항목, 총 16유형
 
 1. 공격형(A, Attack) vs 수비형(D, Defense)
