@@ -1,4 +1,4 @@
-# Soccer_MBTI_Chatbot_RAG
+# ⚽️Soccer_MBTI_Chatbot_RAG
 축구 MBTI 챗봇 With RAG
 
 ## 📌 서비스 개발 동기
@@ -11,7 +11,7 @@ Q. 나와 비슷한 플레이 스타일을 가진 선수는 누가 있을까?
 
 ## 📌 프로젝트 수행 방법
 
-### 축구 MBTI지표 정의 및 유사 단어 정의
+### 💡축구 MBTI지표 정의 및 유사 단어 정의
 ![축구MBTI지표그림](https://github.com/user-attachments/assets/f766f42b-d888-45af-8c1e-e50c0bb7f70f)  
 4가지 항목, 총 16유형  
 
@@ -42,24 +42,24 @@ Q. 나와 비슷한 플레이 스타일을 가진 선수는 누가 있을까?
 소극형: 신중한, 조용한 플레이, 클린 플레이, 조심스러운, 소극적 수비, 자제력, 안전한 플레이, 침착한 등등
 
 
-### 2023 ~ 2024 시즌 EPL 선수 기록 데이터 크롤링 - 네이버 스포츠 링크
+### 💡2023 ~ 2024 시즌 EPL 선수 기록 데이터 크롤링 - 네이버 스포츠 링크
 https://m.sports.naver.com/wfootball/record/epl?seasonCode=QFmj&tab=players
 
 선수 기록을 기반으로 해당 선수의 축구 MBTI산출 
 각 항목에 해당하는 축구 지표의 모든 선수의 평균값을 기준으로 평균 이상, 이하로 구분하여 각 축구 MBTI 항목 구분
 
-### RAG(Retrieval-Augmented Generation) 적용
+### 💡RAG(Retrieval-Augmented Generation) 적용
 1. 정의한 축구 MBTI지표 문서 + 2. 2023 ~ 2024 시즌 EPL 선수 기록 데이터 문서 기반으로 RAG적용
 질문과 각 지표들간의 유사도를 계산하여 높은 유사도 값을 해당 MBTI 유형으로 판단
 
 ![image](https://github.com/user-attachments/assets/cd650557-1211-482a-9ecb-90ee38ae8320)
 
-### RAG 사용 유무 결과 비교   
-#### 기본 gpt모델 (gpt-4o-mini)   
+## 📌 RAG 사용 유무 결과 비교   
+#### 💡기본 gpt모델 (gpt-4o-mini)   
 ![image](https://github.com/user-attachments/assets/6b3a0a79-ddbb-4a47-8481-a20520f215d1)
 
  
-#### 기본 gpt모델 (gpt-4o-mini) + RAG  
+#### 💡기본 gpt모델 (gpt-4o-mini) + RAG  
 ![image](https://github.com/user-attachments/assets/631563ae-99b3-4184-b5d9-254cfbc863c7) | ![image](https://github.com/user-attachments/assets/e0ba34c4-5e74-4f1d-8124-db0628e3359c)
 ---|---|
 
