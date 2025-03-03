@@ -53,7 +53,7 @@ https://m.sports.naver.com/wfootball/record/epl?seasonCode=QFmj&tab=players
 해당 두 문서 기반으로 RAG적용  
 질문과 각 지표들간의 유사도를 계산하여 높은 유사도 값을 해당 MBTI 유형으로 판단  
 
-![image](https://github.com/user-attachments/assets/cd650557-1211-482a-9ecb-90ee38ae8320)
+![image](https://github.com/user-attachments/assets/5a6745a7-41fa-4fbb-9148-171c73cc9847)  
 
 ## 📌 RAG 사용 유무 결과 비교   
 #### 💡기본 gpt모델 (gpt-4o-mini)   
