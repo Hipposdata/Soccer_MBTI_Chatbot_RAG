@@ -65,7 +65,7 @@ https://m.sports.naver.com/wfootball/record/epl?seasonCode=QFmj&tab=players
 ---|---|
 
 
--> 정의한 MBTI 문서 기반 답변 및 최근 선수(2023~2024 시즌) 추천 
+-> RAG 사용시 정의한 MBTI 문서 기반 답변 및 최근 선수(2023~2024 시즌) 추천 
 
 ## 📌 STEAMLIT DEMO  
 https://github.com/user-attachments/assets/3967f835-976f-483c-8f3f-a08eeef9fc3a  
