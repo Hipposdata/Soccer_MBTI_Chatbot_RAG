@@ -1,7 +1,7 @@
 # Soccer_MBTI_Chatbot_RAG
 축구 MBTI 챗봇 With RAG
 
-## 서비스 개발 동기
+## 📌 서비스 개발 동기
 
 Q. 축구인으로서 나의 축구 플레이 스타일이나 성향이 어떻게 평가될까?  
 Q. 나와 비슷한 플레이 스타일을 가진 선수는 누가 있을까?  
@@ -9,7 +9,7 @@ Q. 나와 비슷한 플레이 스타일을 가진 선수는 누가 있을까?
 -> 축구 MBTI를 통해 나의 축구 플레이 스타일과 나와 비슷한 스타일의 선수를 추천해주는 챗봇 서비스 제작
 
 
-## 프로젝트 수행 방법
+## 📌 프로젝트 수행 방법
 
 ### 축구 MBTI지표 정의 및 유사 단어 정의
 ![축구MBTI지표그림](https://github.com/user-attachments/assets/f766f42b-d888-45af-8c1e-e50c0bb7f70f)  
@@ -66,10 +66,10 @@ https://m.sports.naver.com/wfootball/record/epl?seasonCode=QFmj&tab=players
 
 -> 정의한 MBTI 문서 기반 답변 및 최근 선수(2023~2024 시즌) 추천 
 
-## STEAMLIT DEMO  
+## 📌 STEAMLIT DEMO  
 https://github.com/user-attachments/assets/3967f835-976f-483c-8f3f-a08eeef9fc3a  
 
-## How to run  
+## 📌 How to run  
 <br>
 
 ```bash
@@ -80,6 +80,6 @@ pip install -r requirements.txt
 streamlit run mbti_web.py
 ```
 
-# Reference
+## 📌 Reference
 한동대학교 축구 빅데이터 캠프 - 나는 데이터로 축구한다(LLM과 RAG 기술 활용편)
 [https://github.com/Hipposdata/facamp-2025-winter](https://github.com/ai-5050/facamp-2025-winter)
